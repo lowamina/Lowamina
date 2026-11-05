@@ -82,9 +82,7 @@ cat ~/.principles
 | Project | Description |
 |---------|-------------|
 | 🌐 [**Network Architecture Lab**](https://github.com/YOUR_USERNAME/network-architecture-lab) | Hands-on comparison of home vs. enterprise networks — IPv4, NAT, VLANs, Wi-Fi security. |
-| 🔎 *(add your next lab here)* | *OSINT, wireless security, CTF write-ups…* |
 
-> 📌 Tip: pin your best repos on your profile (profile → **Customize your pins**).
 
 ---
 
