@@ -4,7 +4,7 @@
   HOW TO USE:
   1. Create a repo named EXACTLY your GitHub username.
   2. Put this file in it as README.md.
-  3. Replace every YOUR_USERNAME below with your real username.
+  3. Replace every lowamina below with your real username.
   4. Fill in the social links in the "Connect" section.
   5. (Optional) set up the snake animation — see the note near the bottom.
 ========================================================================
@@ -15,13 +15,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/lowamina">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Ethical+Hacking+Enthusiast;Computer+Science+Undergraduate;Networking+%7C+Linux+%7C+OSINT;Always+Learning%2C+Always+Hacking+(Ethically)" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=00b894&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lowamina&label=Profile%20views&color=00b894&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -67,12 +67,12 @@ cat ~/.principles
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="top langs" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lowamina&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowamina&layout=compact&theme=radical&hide_border=true" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lowamina&theme=radical&hide_border=true" alt="streak" />
 </p>
 
 ---
@@ -81,8 +81,7 @@ cat ~/.principles
 
 | Project | Description |
 |---------|-------------|
-| 🌐 [**Network Architecture Lab**](https://github.com/YOUR_USERNAME/network-architecture-lab) | Hands-on comparison of home vs. enterprise networks — IPv4, NAT, VLANs, Wi-Fi security. |
-
+| 🌐 [**Network Architecture Lab**](https://github.com/lowamina/network-architecture-lab) | Hands-on comparison of home vs. enterprise networks — IPv4, NAT, VLANs, Wi-Fi security. |
 
 ---
 
